@@ -1,0 +1,15 @@
+{
+    "name": "Simran Kumari",
+    "profession": "Ai engineer ",
+    "experience": [
+        {"role": "Ai engineer ", "company": "Lagozon.ai", "years": "dec/2024-present"},
+        {"role": "Ai engineer", "company": "Aspireit", "years": "july/2024 -sep/2024"}
+    ],
+    "skills": ["Python", "Machine learning", "Deep learning", "Generative Ai"],
+    "education": "I have done BCA from GL BAJAJ INSITUTE OF TECHNOLOGY AND MANAGEMENT",
+     "contact": {
+        "email": "simran11singh2004@gmail.com",
+        "linkedin": "www.linkedin.com/in/simran-kumari-2222a22a6",
+        "github": "github.com/simran911"
+    }
+}
